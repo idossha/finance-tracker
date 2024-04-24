@@ -19,6 +19,9 @@ This project aims to keep your mannual documentation of your financial investmen
 
 ### Suggestion:
 
-For optimal results: - Trigger of data-collect = daily @ x - Trigger of chart-update = daily @ x + 1h
+For optimal results:
+
+- Trigger of data-collect = daily @ x
+- Trigger of chart-update = daily @ x + 1h
 
 ![Output figure](Output.png)
