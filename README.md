@@ -2,8 +2,6 @@ This project aims to keep your mannual documentation of your financial investmen
 
 ---
 
-# blah balh balhablhjdabsvlahdbvlb
-
 ### Initial Setup:
 
 - Requires the use of GoogleSheets for easy GoogleFinance integration.
